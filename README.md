@@ -8,6 +8,12 @@ Explore integration of Knowledge Graphs, LLMs, and Graph Machine Learning
 - Use knowledge graphs or knowledge graph embeddings to ground LLM applications (retrieval augmented generation).  
 - Graph machine learning to identify entity types and relations in data.
 
+Attendees will need to do the following prior to the workshop:
+
+[Sign up for a free graph database account at Neo4j](https://neo4j.com/cloud/platform/aura-graph-database/?utm_source=Google&utm_medium=PaidSearch&utm_campaign=UCGenAIutm_content=AMS-Search-SEMCO-UCGenAI-None-SEM-SEM-NonABM&utm_term=neo4j%20ai&utm_adgroup=genai-llm&gad_source=1&gclid=CjwKCAiAopuvBhBCEiwAm8jaMWv4W4m41di5rIUYlb7eMLOpE7IkngU9qEllv_6C6AO7dS1JrNUVLhoCgwoQAvD_BwE)
+
+[Sign up for an OpenAI developer key](https://openai.com/blog/openai-api)
+
 #### Workshop 1 - Intro   
 [Knowledge Graphs, Graph ML, and LLMs](https://docs.google.com/presentation/d/1yPeEIcbIK9occWx-H8hKH81Ya37kXwW6OzUDktkoiZQ/edit?usp=sharing)
 
