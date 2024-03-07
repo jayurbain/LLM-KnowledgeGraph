@@ -6,7 +6,7 @@ Explore integration of Knowledge Graphs, LLMs, and Graph Machine Learning
 
 - Use LLMs to extract entity relation from text to automatically populate a knowledge graph.  
 - Use knowledge graphs or knowledge graph embeddings to ground LLM applications (retrieval augmented generation).  
-- Graph machine learning to identify entity types and relations in data.
+- Graph machine learning to learn node and edge embeddings.
 
 Attendees will need to do the following prior to the workshop:
 
@@ -14,20 +14,20 @@ Attendees will need to do the following prior to the workshop:
 
 [OpenAI developer account and key](https://openai.com/blog/openai-api)
 
-#### Workshop 1 - Intro   
+#### Lectures      
 [Knowledge Graphs, Graph ML, and LLMs](https://docs.google.com/presentation/d/1yPeEIcbIK9occWx-H8hKH81Ya37kXwW6OzUDktkoiZQ/edit?usp=sharing)
 
-[Lab: Creating a Knowledge Graph from Text](labs/constructing_knowledge_graph.ipynb)
+[Graph Neural Networks](https://docs.google.com/presentation/d/1EC7-okKsZnDIygkVBlar7udeehdmklrOIim7oObVaYI/edit?usp=sharing)  
 
-#### Workshop 2 - Graph Embeddings   
-[Knowledge Graph Embeddings]()  
-[Lab: Creating a Knowledge Graph from Text]()
+#### Tasks       
 
+[Tasl 1: Creating a Knowledge Graph from Text](labs/constructing_knowledge_graph.ipynb)
 
-#### Workshop 3 - Graph Neural Networks, graph level prediction    
-[Graph Neural Networks](slides/8.%20Graph%20Neural%20Networks.pdf)
+[Task 2: Creating a Knowledge Graph Embedding](labs/pykeen_knowledge_graph_embedding.ipynb))
 
-#### Note: For opening notebooks in colab
+#### Optional Tasks - Graph Neural Networks, graph level prediction    
+
+Note: For opening notebooks in colab
 
 _Runtime -> Change Runtime Type -> GPU_
 
